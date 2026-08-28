@@ -1,0 +1,37 @@
+{
+  "best_model": "GradientBoostingRegressor",
+  "results": [
+    {
+      "model": "GradientBoostingRegressor",
+      "rmse": 4409.83,
+      "mae": 2498.85,
+      "r2": 0.8747,
+      "cv_rmse_mean": 4659.57,
+      "cv_rmse_std": 550.48
+    },
+    {
+      "model": "Ridge",
+      "rmse": 4517.64,
+      "mae": 2738.27,
+      "r2": 0.8685,
+      "cv_rmse_mean": 4767.14,
+      "cv_rmse_std": 585.65
+    },
+    {
+      "model": "LinearRegression",
+      "rmse": 4529.04,
+      "mae": 2729.15,
+      "r2": 0.8679,
+      "cv_rmse_mean": 4764.5,
+      "cv_rmse_std": 586.72
+    },
+    {
+      "model": "RandomForestRegressor",
+      "rmse": 4630.65,
+      "mae": 2544.68,
+      "r2": 0.8619,
+      "cv_rmse_mean": 4868.93,
+      "cv_rmse_std": 499.28
+    }
+  ]
+}
