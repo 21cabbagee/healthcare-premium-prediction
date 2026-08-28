@@ -2,7 +2,7 @@
 
 Predicting annual health insurance premiums from demographic and lifestyle data — a compact, end-to-end regression project with feature engineering, model comparison, and a deployed Streamlit app.
 
-**🔗 Live Demo:** _[will be added after deployment]_
+**🔗 Live Demo:** [healthcare-premium-prediction.streamlit.app](https://healthcare-premium-prediction-yndzzwgq9bykelyrh4g8ae.streamlit.app/)
 
 ## Problem Statement
 
